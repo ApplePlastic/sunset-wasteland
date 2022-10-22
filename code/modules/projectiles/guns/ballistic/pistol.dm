@@ -74,6 +74,7 @@
 	extra_damage = 22
 	fire_delay = 1
 	recoil = 0.05
+	extra_penetration = 0.05
 	can_attachments = TRUE
 	can_automatic = TRUE
 	suppressor_state = "n99_suppressor"
@@ -114,6 +115,7 @@
 	extra_damage = 24
 	recoil = 0.1
 	spread = 3
+	extra_penetration = 0.1
 	can_suppress = FALSE
 	fire_sound = 'sound/f13weapons/10mm_fire_02.ogg'
 

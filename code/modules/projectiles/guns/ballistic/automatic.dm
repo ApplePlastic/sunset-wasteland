@@ -336,6 +336,7 @@
 	spread = 12
 	slowdown = 0.3
 	extra_damage = 22
+	extra_penetration = 0.05
 	recoil = 0.5
 	fire_delay = 3.25
 	can_attachments = TRUE
@@ -565,7 +566,7 @@
 	burst_size = 1
 	fire_delay = 3
 	spread = 2
-	extra_damage = 20
+	extra_damage = 24
 	extra_penetration = 0.1
 	slowdown = 0.05
 	automatic_burst_overlay = FALSE
